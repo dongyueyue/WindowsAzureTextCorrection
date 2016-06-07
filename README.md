@@ -1,7 +1,7 @@
 # WindowsAzureTextCorrection
 修正Azure项目需要上传的文本内容
 
-githubpages: http://lixiaoxf.github.io/WindowsAzureTextCorrection
+githubpages: http://dongyueyue.github.io/WindowsAzureTextCorrection/
 
 校验规则：
 
